@@ -24,5 +24,5 @@ Tools untuk spoofing email
   ```
 
 Note: 
-- email yang bisa dispoofing hanya email belum dilindungi oleh Security email seperti Sender Policy Framework (SPF), Autnetikasi DKIM, dan Autentikasi DMARC
+- email yang bisa dispoofing hanya email belum dilindungi oleh Security email seperti Sender Policy Framework (SPF), Autentikasi DKIM, dan Autentikasi DMARC
 - Tools ini hanya diperuntukan untuk tujuan cyber security awareness dan edukasi. Dilarang untuk menggunakan tools ini untuk kejahatan.
